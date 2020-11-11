@@ -7,6 +7,6 @@ Xampp was used to develop this project, because in it we can work on the mysql i
 Now, look at the project in that image.
 
 <p align="center">
-    <img  src="https://github.com/mazarafa/Opening-a-call/blob/master/MysqlScript/drum.jpg" title="Logo do si">te<br />
+    <img  src="https://github.com/mazarafa/Opening-a-call/blob/master/MysqlScript/drum.jpg" title="Logo do si"><br />
     
 </p>
